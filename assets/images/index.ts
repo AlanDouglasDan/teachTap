@@ -1,0 +1,17 @@
+export default {
+  learnFocused: require("./learnFocused.png"),
+  explore: require("./explore.png"),
+  activity: require("./activity.png"),
+  favorites: require("./favorites.png"),
+  account: require("./account.png"),
+  loader: require("./loader.png"),
+  audio: require("./audio.png"),
+  heart: require("./heart.png"),
+  comment: require("./comment.png"),
+  bookmark: require("./bookmark.png"),
+  share: require("./share.png"),
+  timer: require("./timer.png"),
+  search: require("./search.png"),
+  dummyFollowing1: require("./dummyFollowing1.png"),
+  dummyFollowing2: require("./dummyFollowing2.png"),
+};
